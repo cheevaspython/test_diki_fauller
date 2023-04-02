@@ -1,5 +1,5 @@
-poetry install 
-poetry shell
+poetry install -> 
+poetry shell -> 
 python main.py
 
 Программа коннектится на бинанс, раз в секунду считывает цену ETHUSDT, 
